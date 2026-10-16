@@ -104,6 +104,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-f5f68c) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [seedance-2-0-face-prompts-pt](https://github.com/yyox4g/seedance-2-0-face-prompts-pt)
+- **Same model, other languages** — 9 more language builds: 中文 [seedance-2-0-face-api-cn](https://github.com/y4ygh6e/seedance-2-0-face-api-cn) · Deutsch [seedance-2-0-face-api-de](https://github.com/xxswg/seedance-2-0-face-api-de) · Español [seedance-2-0-face-api-es](https://github.com/lxdyxdnt1/seedance-2-0-face-api-es) · Français [seedance-2-0-face-api-fr](https://github.com/ej2tpd/seedance-2-0-face-api-fr) · Relay/gateway [seedance-2-0-face-api-gateway](https://github.com/g-v9ai/seedance-2-0-face-api-gateway) · Bahasa [seedance-2-0-face-api-id](https://github.com/gtys7be5wu3/seedance-2-0-face-api-id) · 日本語 [seedance-2-0-face-api-ja](https://github.com/badqdz9-78k2/seedance-2-0-face-api-ja) · 한국어 [seedance-2-0-face-api-ko](https://github.com/zxdn4cniz2dan/seedance-2-0-face-api-ko) · Русский [seedance-2-0-face-api-ru](https://github.com/xdp1gl4x5jue5o/seedance-2-0-face-api-ru)
+- **More models in this language** — [midjourney-api-pt](https://github.com/l-ca0/midjourney-api-pt) · [gemini-2-5-flash-image-preview-api-pt](https://github.com/ycx8l0/gemini-2-5-flash-image-preview-api-pt) · [nano-banana-api-pt](https://github.com/erujt71i1lx/nano-banana-api-pt) · [gemini-3-1-flash-image-preview-api-pt](https://github.com/hutjwux0nt9h/gemini-3-1-flash-image-preview-api-pt) · [nano-banana-2-api-pt](https://github.com/ydkd8kdkl8n/nano-banana-2-api-pt) · [gemini-3-pro-image-preview-api-pt](https://github.com/qss2d-66qb2n7/gemini-3-pro-image-preview-api-pt)
+- **Topic hubs** — every build of this model, all languages: [seedance-2-0-face](https://github.com/topics/seedance-2-0-face) · [seedance-2-0-face-api](https://github.com/topics/seedance-2-0-face-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
